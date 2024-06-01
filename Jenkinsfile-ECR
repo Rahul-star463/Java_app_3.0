@@ -54,7 +54,7 @@ pipeline{
     //         steps{
     //            script{
                    
-    //                def SonarQubecredentialsId = 'sonarqube-api'
+    //                def SonarQubecredentialsId = 'rahul'
     //                statiCodeAnalysis(SonarQubecredentialsId)
     //            }
     //         }
@@ -64,7 +64,7 @@ pipeline{
     //         steps{
     //            script{
                    
-    //                def SonarQubecredentialsId = 'sonarqube-api'
+    //                def SonarQubecredentialsId = 'rahul'
     //                QualityGateStatus(SonarQubecredentialsId)
     //            }
     //         }
